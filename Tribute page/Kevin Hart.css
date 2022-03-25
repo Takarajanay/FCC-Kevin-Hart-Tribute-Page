@@ -1,0 +1,32 @@
+#img-caption{
+    width: 800px;
+}
+#tribute info {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    font-size: 25px;
+}
+#two{
+    text-align:center;
+}
+h4 {
+    text-align:center;
+    font-size: 20px;
+    font-style: italic;
+}
+#three{
+    text-align: center;
+    font-style: italic;
+}
+#four{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
