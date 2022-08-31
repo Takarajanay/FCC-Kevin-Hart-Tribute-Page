@@ -1,7 +1,7 @@
 #img-caption{
     width: 800px;
 }
-#one {
+#one{
     text-align: center;
 }
 h3{
@@ -25,7 +25,7 @@ h4{
     font-weight: bold;
     font-size: 20px;
 }
-#image {
+#image{
     max-width: 100%;
     height: auto;
     display: block;
