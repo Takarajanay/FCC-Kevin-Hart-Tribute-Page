@@ -30,3 +30,12 @@ h4 {
     height: auto;
     display: block;
 }
+body {
+            background-color: tan;
+            font-family: Georgia;
+            padding: 20px 20px 20px 20px;
+            margin: 20px 20px 20px 20px;
+        }
+     h2 {
+         text-align: center;
+     }   
